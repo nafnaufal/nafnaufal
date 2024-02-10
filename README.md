@@ -1,10 +1,11 @@
 <h1 align="left">Hi, I'm Naufal</h1>
 <h3 align="left">Studied Computer Science at Universitas Lampung, Indonesia</h3>
-|- I’m currently learning **React and JavaScript for Website Scrapping**
+|
+- I’m currently learning **React and JavaScript for Website Scrapping**
 - All of my projects are available at [https://nafnaufal.000webhostapp.com/](https://nafnaufal.000webhostapp.com/)
 - Ask me about **Algorithm and Data Structure if you need help :)**
 - How to reach me **naufalanbial@gmail.com**
-|![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafnaufal&show_icons=true&theme=transparent)|
+| ![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafnaufal&show_icons=true&theme=transparent) |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
