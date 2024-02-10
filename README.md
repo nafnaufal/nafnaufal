@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Naufal</h1>
+<h1 align="left">Hi, I'm Naufal</h1>
 <h3 align="left">Studied Computer Science at Universitas Lampung, Indonesia</h3>
 
 - I’m currently learning **React and JavaScript for Website Scrapping**
