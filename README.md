@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Naufal</h1>
-<h3 align="center">Studied Computer Science at Universitas Lampung, Indonesia</h3>
+<h1 align="start">Hi 👋, I'm Naufal</h1>
+<h3 align="start">Studied Computer Science at Universitas Lampung, Indonesia</h3>
 
 - 🌱 I’m currently learning **React and JavaScript for Website Scrapping**
-
 - 👨‍💻 All of my projects are available at [https://nafnaufal.000webhostapp.com/](https://nafnaufal.000webhostapp.com/)
-
 - 💬 Ask me about **Algorithm and Data Structure if you need help :)**
-
 - 📫 How to reach me **naufalanbial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
