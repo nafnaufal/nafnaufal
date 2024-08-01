@@ -3,7 +3,7 @@
 
 - I’m currently learning **React and JavaScript for Web Scrapping**
 - All of my projects are available at [https://www.nafnaufal.tech/](https://www.nafnaufal.tech/)
-- Ask me about **Algorithm and Data Structure if you need help :)**
+- Ask me about **Algorithm and Data Structure if you need help**
 - How to reach me **naufalanbial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
