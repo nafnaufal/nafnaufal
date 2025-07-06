@@ -5,7 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/naufalanbial" target="blank">X</a>
-<a href="https://linkedin.com/in/nafnaufal" target="blank">linkedin</a>
-<a href="https://www.hackerrank.com/naufalanbial" target="blank">hackerrank</a>
+  <ul>
+    <li><a href="https://x.com/naufalanbial" target="blank">X</a></li>
+    <li><a href="https://linkedin.com/in/nafnaufal" target="blank">linkedin</a></li>
+    <li><a href="https://www.hackerrank.com/naufalanbial" target="blank">hackerrank</a></li>
+  </ul>
+
 </p>
