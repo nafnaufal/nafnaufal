@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Naufal</h1>
 
-- Check out my portofolio [https://www.nafnaufal.tech/](https://www.nafnaufal.tech/)
+- Check out my portofolio [https://www.nafnaufal.tech/](https://www.nafnaufal.tech/) (inactive)
 - How to reach me **naufalanbial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
